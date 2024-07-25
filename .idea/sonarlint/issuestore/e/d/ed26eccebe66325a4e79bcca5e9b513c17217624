@@ -1,0 +1,10 @@
+
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷´Øıùÿÿÿÿ8¿´­2
+m
+java:S1192!"KDefine a constant instead of duplicating this literal "/employees" 4 times.(Äï€şÿÿÿÿ8¿´­2
+c
+java:S3655]"FCall "emp.isPresent()" or "!emp.isEmpty()" before accessing the value.(Ìƒ´¬8±Ï™°2
+s	java:S116"WRename this field "API_BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û›Éğ8–¿´­2
+Z
+java:S1854$"=Remove this useless assignment to local variable "employees".(™€‰›8¤¿´­2
